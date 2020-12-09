@@ -1,0 +1,38 @@
+.div-main {
+    position: fixed;
+    z-index: 0;
+}
+
+.div-btn {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 200px;
+}
+
+img {
+    height: 517px;
+    width: 1366px;
+    opacity: 0.4;
+}
+
+button {
+    border-style: none;
+    width: 400px;
+    height: 100px;
+
+    position: relative;
+    z-index: 1;
+    border-radius: 10px;
+
+    color: #4F4F4F;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    background-color:  #87CEFA;
+}
+
+button:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
