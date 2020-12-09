@@ -1,0 +1,31 @@
+.div-main {
+    display: flex;
+
+    width: auto;
+    height: 70px;
+
+    background-color: #87CEFA;
+}
+
+img {
+    display: flex;
+
+    height: 60px;
+
+    align-self: center;
+
+}
+
+#first-image {
+    margin-left: 25%;
+}
+
+h1 {
+    color: #4F4F4F;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    margin-left: 40px;
+    margin-right: 40px;
+
+    align-self: center;
+}
